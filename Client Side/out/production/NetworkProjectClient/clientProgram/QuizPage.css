@@ -1,0 +1,92 @@
+.pane-pane {
+    -fx-background-color: grey;
+}
+
+.quizlabel-label {
+    -fx-font-family: "Leelawadee UI Semilight";
+    -fx-font-size: 21pt;
+    -fx-text-fill: maroon;
+    -fx-background-color: gainsboro;
+}
+
+.namelabel-label {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 22pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: aliceblue;
+}
+
+.scorelabel-label {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 18pt;
+    -fx-text-fill: aliceblue;
+}
+
+.statuslabel-label {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: lightsalmon;
+}
+
+.true-button {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 36pt;
+    -fx-font-weight: bold;
+    -fx-background-color: lightskyblue;
+}
+
+.true-button:hover {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 36pt;
+    -fx-font-weight: bold;
+    -fx-background-color: deepskyblue;
+}
+
+.false-button {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 36pt;
+    -fx-font-weight: bold;
+    -fx-background-color: tomato;
+}
+
+.false-button:hover {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 36pt;
+    -fx-font-weight: bold;
+    -fx-background-color: orangered;
+}
+
+.quit-button {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: red;
+    -fx-background-color: ivory;
+}
+
+.quit-button:hover {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: ivory;
+    -fx-background-color: red;
+}
+
+.restart-button {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: mediumseagreen;
+    -fx-background-color: ivory;
+}
+
+.restart-button:hover {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: ivory;
+    -fx-background-color: mediumseagreen;
+}
+
+

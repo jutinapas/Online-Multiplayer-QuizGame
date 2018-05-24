@@ -1,0 +1,37 @@
+.pane-pane {
+    -fx-background-color: grey;
+}
+
+.label-label {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 17pt;
+    -fx-text-fill: peachpuff;
+}
+
+.join-button {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-background-color: mistyrose;
+}
+
+.join-button:hover {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-background-color: pink;
+}
+
+.create-button {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 18pt;
+    -fx-font-weight: bold;
+    -fx-background-color: aquamarine;
+}
+
+.create-button:hover {
+    -fx-font-family: "Leelawadee";
+    -fx-font-size: 18pt;
+    -fx-font-weight: bold;
+    -fx-background-color: mediumspringgreen;
+}
